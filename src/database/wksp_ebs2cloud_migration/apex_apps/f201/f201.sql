@@ -1357,6 +1357,4 @@ end;
 set verify on feedback on define on
 prompt  ...done
 
-
-
 -- sqlcl_snapshot {"hash":"7aad705b627ba3e40ee96353a790013ccca4a657","type":"APEX_APPLICATIONS","name":"f201","schemaName":"WKSP_EBS2CLOUD_MIGRATION","sxml":""}
