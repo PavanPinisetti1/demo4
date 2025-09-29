@@ -1,20 +1,7 @@
-.env
-
+app_exp_change.sh
+app_export.sh
+app_import.sh
+ci_cd.sh
 conn.ps1
-
-# Oracle SQLcl Projects
-artifact/*
-var/*
-*.tar.gz
-*.tz
-*.zip
-*.log
-**/.DS_Store
-# Oracle SQLcl Projects
-artifact/*
-var/*
-*.tar.gz
-*.tz
-*.zip
-*.log
-**/.DS_Store
+git_conn.sh
+log_changes.sh
